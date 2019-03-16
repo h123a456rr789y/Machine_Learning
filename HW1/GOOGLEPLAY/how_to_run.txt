@@ -1,0 +1,15 @@
+DIR : origin_data
+        In this directory we have the origin data from TAs.
+        THE CONTENT :
+            googleplaystore.csv
+            googleplaystore_user_reviews.csv
+DIR : processed_data
+        In this directory we have the processed data, and the data preprocessing can be done by running the data_preprocess_google_play.ipynb and the data_preprocess_googleplay_review.ipynb.
+        THE CONTENT : 
+            googleplaystore_processed.csv
+DIR : excel_plot
+        In this directory I HAVE NOTHING
+        THE CONTENT : 
+DIR : code
+        I put all the code here
+        THE CONTENT : 
